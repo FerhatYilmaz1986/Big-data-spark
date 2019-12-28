@@ -11,7 +11,7 @@
    -Scalibility  
      
 ### Components of Spark:
-   -Spark Streaming
-   -Spark Sql
-   -Mllib
-   -Graphx
+   -Spark Streaming  
+   -Spark Sql  
+   -Mllib  
+   -Graphx  
