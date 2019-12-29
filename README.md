@@ -18,5 +18,5 @@
    - Mllib : Machine learning lbraries built on top of Spark  
    - Graphx : Graph compoutation engine  
   
- ### Resources:  
+ ### References:  
    - spark.apache.org
