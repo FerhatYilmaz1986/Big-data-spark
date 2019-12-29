@@ -11,7 +11,7 @@
    -Scalibility  
      
 ### Components of Spark:
-   -Spark Streaming  
-   -Spark Sql  
-   -Mllib  
-   -Graphx  
+   -Spark Streaming : Process live streaming data    
+   -Spark Sql : Run queries on Hadoop deployment    
+   -Mllib : Machine learning lbraries built on top of Spark  
+   -Graphx : Graph compoutation engine  
