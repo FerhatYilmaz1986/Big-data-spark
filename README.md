@@ -10,7 +10,8 @@
    -Faster than map/reduce  
    -Scalibility  
      
-### Components of Spark:
+### Components of Spark:  
+  ![Spark Architecture](/image/sparkarcht.png)  
    -Spark Streaming : Process live streaming data    
    -Spark Sql : Run queries on Hadoop deployment    
    -Mllib : Machine learning lbraries built on top of Spark  
