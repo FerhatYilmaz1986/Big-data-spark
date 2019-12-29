@@ -6,6 +6,7 @@
     
 ### Advantages of Spark:  
    -Power and speed  
+   ![Running Time Comparison](/image/runningtime.png)  
    -Language flexibility(python,java,scala)  
    -Faster than map/reduce  
    -Scalibility  
