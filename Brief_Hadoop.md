@@ -5,7 +5,7 @@ distributed processing of very large datasets on computer clusters built from  c
 hardware-Hortonworks  
   
 ### Hadoop cluster architecture:  
-- HDFS: Namenode, Secondary namenode, datanode  
+- Hadoop Distributed File System(HDFS): Namenode, Secondary namenode, datanode  
 - Yarn: resource manager, nodemanager  
   
 ### Manage a hadoop cluster:  
