@@ -5,8 +5,13 @@ distributed processing of very large datasets on computer clusters built from  c
 hardware-Hortonworks  
   
 ### Hadoop cluster architecture:  
-- Hadoop Distributed File System(HDFS): Namenode, Secondary namenode, datanode  
-- Yarn: resource manager, nodemanager  
+- Hadoop Distributed File System(HDFS):  
+  - Allows us to distribute the storage of data across cluster of computers  
+  - Maintains redundant copies of data  
+- Yarn:  
+  - Where data processing come into play.System that manages the resources on cluster  
+  - Manages nodes and share work load between nodes  
+  
   
 ### Manage a hadoop cluster:  
 - Command line  
@@ -18,3 +23,7 @@ data is too big(Volume, Velocity, Variety, Veracity)
 Vertical scaling issues like processing time, hardware failures  
 Flexible  
 Cost effective  
+
+
+
+![Running Time Comparison](/image/runningtime.png)  
