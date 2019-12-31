@@ -11,7 +11,10 @@ hardware-Hortonworks
 - Yarn:  
   - Where data processing come into play.System that manages the resources on cluster  
   - Manages nodes and share work load between nodes  
-  
+- MapReduce :  
+  - Map : Transform data in parallel across entire cluster in an efficient way
+  - Reduce : Aggregate data together  
+![MapReduce](/image/mapreduce.png)  
   
 ### Manage a hadoop cluster:  
 - Command line  
@@ -26,4 +29,4 @@ Cost effective
 
 
 
-![Running Time Comparison](/image/runningtime.png)  
+  
