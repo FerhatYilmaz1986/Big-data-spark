@@ -18,7 +18,7 @@
    - Mllib : Machine learning lbraries built on top of Spark  
    - Graphx : Graph compoutation engine  
   
-### Spark setup for Windows%Anaconda:  
+### Spark setup for Windows&Anaconda:  
    - Install pyspark using pip install pyspark  
    - Install Java
    - Set environment variables:  
