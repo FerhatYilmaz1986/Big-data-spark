@@ -26,7 +26,7 @@
     - SPARK_HOME = C:\Users\Pc\Anaconda3\Lib\site-packages\pyspark  
    
  ### Example data analysis using Pyspark :  
- *[1.Pyhton codes in Jupyter notebook](/Pyspark.ipynb)  
+ *[1.Basic NLP using spark in Jupyter notebook](/Pyspark.ipynb)  
    
  ### Spark & Hadoop :  
  *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
