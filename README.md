@@ -27,7 +27,7 @@
    
  ### Example data analysis using Pyspark :  
  *[1.Basic NLP using spark in Jupyter notebook](/NLP_basics.ipynb)  
- *[1.K-means Clustering using spark in Jupyter notebook](/NLP_basics.ipynb) 
+ *[1.K-means Clustering using spark in Jupyter notebook](/Kmeans_clustering.ipynb) 
  ### Spark & Hadoop :  
  *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
  ### References:  
