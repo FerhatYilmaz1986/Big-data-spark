@@ -15,8 +15,8 @@
   ![Spark Architecture](/image/sparkarcht.png)  
    - Spark Streaming : Process live streaming data    
    - Spark Sql : Run queries on Hadoop deployment    
-   - Mllib : Machine learning lbraries built on top of Spark  
-   - Graphx : Graph compoutation engine  
+   - Mllib : Machine learning libraries built on top of Spark  
+   - Graphx : Graph computation engine  
   
 ### Spark setup for Windows&Anaconda:  
    - Install pyspark using pip install pyspark  
@@ -26,8 +26,8 @@
     - SPARK_HOME = C:\Users\Pc\Anaconda3\Lib\site-packages\pyspark  
    
  ### Example data analysis using Pyspark :  
- *[1.Basic NLP using spark in Jupyter notebook](/Pyspark.ipynb)  
-   
+ *[1.Basic NLP using spark in Jupyter notebook](/NLP_basics.ipynb)  
+ *[1.K-means Clustering using spark in Jupyter notebook](/NLP_basics.ipynb) 
  ### Spark & Hadoop :  
  *[1.Brief information about Hadoop ](/Brief_Hadoop.md)
  ### References:  
