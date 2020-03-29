@@ -17,6 +17,12 @@
    - Spark Sql : Run queries on Hadoop deployment    
    - Mllib : Machine learning libraries built on top of Spark  
    - Graphx : Graph computation engine  
+
+### Important Terms:  
+   - RDD : Resilient Distributed Dataset
+   - Transformation : Spark operation that produces an RDD
+   - Action : Spark operation that produces a local object
+   - Spark Job: Sequence of transformations on data with a final action 
   
 ### Spark setup for Windows&Anaconda:  
    - Install pyspark using pip install pyspark  
