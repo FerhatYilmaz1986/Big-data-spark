@@ -17,7 +17,11 @@
    - Spark Sql : Run queries on Hadoop deployment    
    - Mllib : Machine learning libraries built on top of Spark  
    - Graphx : Graph computation engine  
-
+  
+### History of Spark APIs:  
+   - RDD (2011)  
+     - Distribute collection of JVM objects  
+     - Functional Operators
 ### Important Terms:  
    - RDD : Resilient Distributed Dataset
    - Transformation : Spark operation that produces an RDD
@@ -31,7 +35,7 @@
     - PYSPARK_PYTHON = python3  
     - SPARK_HOME = C:\Users\Pc\Anaconda3\Lib\site-packages\pyspark  
    
- ### Example data analysis using Pyspark :  
+ ### Data mining using Pyspark :  
  *[1.NLP using pyspark in Jupyter notebook](/NLP_basics.ipynb)  
  *[1.K-means Clustering using pyspark in Jupyter notebook](/Kmeans_clustering.ipynb) 
  ### Spark & Hadoop :  
