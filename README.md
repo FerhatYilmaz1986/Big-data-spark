@@ -21,7 +21,12 @@
 ### History of Spark APIs:  
    - RDD (2011)  
      - Distribute collection of JVM objects  
-     - Functional Operators
+     - Functional Operators  
+   - DataFrame (2013)
+     - Distribute collection of Row objects  
+     - Expression-based operations and UDFs  
+     - Logical plans and optimizer  
+     - Fast/efficient internal representations
 ### Important Terms:  
    - RDD : Resilient Distributed Dataset
    - Transformation : Spark operation that produces an RDD
