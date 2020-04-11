@@ -26,7 +26,11 @@
      - Distribute collection of Row objects  
      - Expression-based operations and UDFs  
      - Logical plans and optimizer  
-     - Fast/efficient internal representations
+     - Fast/efficient internal representations  
+   - DataSet (2015)  
+     - Internally rows, externally JVM objects  
+     - Type safe + fast
+     - But slower than DF. Not as good for interactive analysis
 ### Important Terms:  
    - RDD : Resilient Distributed Dataset
    - Transformation : Spark operation that produces an RDD
@@ -40,7 +44,7 @@
     - PYSPARK_PYTHON = python3  
     - SPARK_HOME = C:\Users\Pc\Anaconda3\Lib\site-packages\pyspark  
    
- ### Data mining using Pyspark :  
+ ### Pyspark repositories :  
  *[1.NLP using pyspark in Jupyter notebook](/NLP_basics.ipynb)  
  *[1.K-means Clustering using pyspark in Jupyter notebook](/Kmeans_clustering.ipynb) 
  ### Spark & Hadoop :  
