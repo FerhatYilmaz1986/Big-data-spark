@@ -30,7 +30,15 @@
    - DataSet (2015)  
      - Internally rows, externally JVM objects  
      - Type safe + fast
-     - But slower than DF. Not as good for interactive analysis
+     - But slower than DF. Not as good for interactive analysis  
+### Spark & Clusters:  
+   Spark supports the following resource/cluster managers:  
+   - Spark Standalone – a simple cluster manager included with Spark  
+   - Apache Mesos – a general cluster manager that can also run Hadoop applications  
+   - Apache Hadoop YARN – the resource manager in Hadoop  
+   - Kubernetes – an open source system for automating deployment, scaling, and management of containerized applications  
+   - Spark also has a local mode, where the driver and executors run as threads on your computer instead of a cluster, which is useful for developing your applications from a personal computer.  
+
 ### Important Terms:  
    - RDD : Resilient Distributed Dataset
    - Transformation : Spark operation that produces an RDD
